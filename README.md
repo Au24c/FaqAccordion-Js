@@ -4,10 +4,7 @@ An elegant and responsive FAQ Accordion built with **TailwindCSS** and **Vanilla
 This branch showcases the same logic as the plain version but with a modern and utility-first approach to styling.
 
 
-
-## 🔗 Live Demo
-
-> [Click here to view it live (optional GitHub Pages link)](https://au24c.github.io/FaqAccordion-Js/)  
+ 
 
 
 
